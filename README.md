@@ -1,4 +1,3 @@
-starter-php
-===========
+# Welcome to the PHP Guild!
 
-A starter app for PHP developers embarking on their first Twilio quest!
+More information about setting up this repository is coming soon.
