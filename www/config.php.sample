@@ -1,4 +1,4 @@
 <?php
-$TWILIO_ACCOUNT_SID = 'CHANGE_ME';
-$TWILIO_AUTH_TOKEN  = 'CHANGE_ME';
-$TWILIO_NUMBER = 'CHANGE_ME';
+$TWILIO_ACCOUNT_SID = '.$_ENV["TWILIO_ACCOUNT_SID"]';   #Export your credential to TWILIO_ACCOUNT_SID, or manually change the value.
+$TWILIO_AUTH_TOKEN  = '.$_ENV["TWILIO_AUTH_TOKENS"]';   #Export your credential to TWILIO_AUTH_TOKENS, or manually change the value.
+$TWILIO_NUMBER = '.$_ENV["TWILIO_NUMBER"]';             #Export your credential to TWILIO_NUMBER, or manually change the value.
