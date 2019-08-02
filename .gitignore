@@ -1,2 +1,5 @@
-.DS_Store
-www/config.php
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
