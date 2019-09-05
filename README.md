@@ -30,7 +30,7 @@ composer install
 Start the application:
 
 ```bash
-php -S localhost:4567 -t public
+php -S 127.0.0.1:4567 -t public
 ```
 
 Now you can visit [http://localhost:4567/](http://localhost:4567)
